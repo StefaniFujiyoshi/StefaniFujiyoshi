@@ -18,5 +18,5 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:grilofujiyoshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/stefani-sayuri-grilo-fujiyoshi)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=grilofujiyoshi@gmail.com)
