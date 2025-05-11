@@ -16,7 +16,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
 
-### 🌐 Conecte-se comigo
+### 🌐 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/stefani-sayuri-grilo-fujiyoshi)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=grilofujiyoshi@gmail.com)
