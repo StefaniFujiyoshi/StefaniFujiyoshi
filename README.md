@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Stefani S. G. Fujiyoshi
 
-- 🌱 Cursando Engenharia de Software na Unicesumar
-- 🎯 Ser desenvolvedor web
+- 🌱 Atualmente estou cursando Engenharia de Software na Unicesumar
+- 🎯 Objetivo: Ser desenvolvedor web
 - 😄 Pronomes: Ele/dele
 
 <a href="https://github.com/StefaniFujiyoshi/readme.md">
